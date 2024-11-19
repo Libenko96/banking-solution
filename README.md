@@ -17,7 +17,7 @@ Before running the application, make sure you have the following installed:
 Clone the project to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/banking-solution.git
+git clone https://github.com/Libenko96/banking-solution.git
 ```
 ### 2. Build the Application
 
